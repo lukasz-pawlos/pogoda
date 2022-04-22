@@ -281,6 +281,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Api.cs" />
+    <Compile Include="Date.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -42,6 +42,7 @@ namespace pogoda
         public Wind wind { get; set; }
         public Clouds clouds { get; set; }
         public int dt { get; set; }
+        public int timezone { get; set; }
     }
 
     public class Api
